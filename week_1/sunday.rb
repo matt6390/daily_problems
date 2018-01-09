@@ -4,4 +4,4 @@ doubled_numbers = numbers.map { |number| number * 2}
 
 p doubled_numbers
 
-#map returns a new array with the return value of the block in place of the initial array's value.
+#map returns a new array with the return value of the block in place of the initial array's value. 
